@@ -5,4 +5,4 @@
 - correct bug checkPos (drawRect)
 ## Description main.c
 - Squelette du programme avec boucle pour gestion event et exemple  :
-  - Vous pouvez deplacer un carré latteralement avec Q | D
+  - Vous pouvez deplacer un carré latteralement avec Q | D# Brick-Breaker
